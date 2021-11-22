@@ -1,0 +1,15 @@
+#movies-main {
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	justify-content: end;
+	align-items: baseline;
+}
+#movie-display {
+	display: grid;
+	grid-template-columns: repeat(3, 300px);
+	grid-gap: 5px;
+	justify-content: center;
+	align-items: center;
+	padding: 30px 10px;
+	border-right: 1px solid lightgray;
+}

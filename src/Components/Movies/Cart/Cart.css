@@ -1,0 +1,15 @@
+ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border-bottom: 1px solid lightgrey;
+}
+#cart {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	text-align: start;
+	margin-left: 20px;
+	font-size: large;
+}

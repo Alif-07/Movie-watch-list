@@ -1,0 +1,16 @@
+#movie-part {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: start;
+	/* border-bottom: 1px solid lightgrey; */
+	padding: 10px 0;
+	margin: 10px 0;
+	padding-bottom: 20px;
+	max-height: 1000px;
+	height: 90%;
+}
+.icon-color {
+	color: gold;
+}
